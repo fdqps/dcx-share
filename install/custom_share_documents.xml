@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webactiondef xmlns="http://www.digicol.com/xmlns/dcx" id="custom_share_documents" version="1.0">
+<info>
+  <action_mode>window</action_mode>
+  <force_post>1</force_post>
+  <selected_docs>1</selected_docs>
+  <window_options>
+    <height>200</height>
+    <resizable>yes</resizable>
+    <width>450</width>
+  </window_options>
+</info>
+  <scope>documents</scope>
+</webactiondef>
